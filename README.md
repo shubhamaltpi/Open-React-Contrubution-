@@ -8,6 +8,7 @@
 
 - Add your own details to the contributor list
 - Make a Pull Request
+</p>
 
 ## View Video 🍉
 <br/>
