@@ -8,6 +8,7 @@ const App = () => (
          {/* do not change nav  */}
         <Navbar />
       </div>
+      {/* this is payment open sourse project */}
     </div>
 
     <div className={`bg-primary ${styles.flexStart}`}>
