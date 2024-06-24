@@ -5,8 +5,10 @@ const App = () => (
   <div className="bg-primary w-full overflow-hidden">
     <div className={`${styles.paddingX} ${styles.flexCenter}`}>
       <div className={`${styles.boxWidth}`}>
+         {/* do not change nav  */}
         <Navbar />
       </div>
+      {/* this is payment open sourse project */}
     </div>
 
     <div className={`bg-primary ${styles.flexStart}`}>

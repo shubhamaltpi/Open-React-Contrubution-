@@ -8,6 +8,12 @@
 
 - Add your own details to the contributor list
 - Make a Pull Request
+</p>
+
+# View Video 🍉
+
+[Watch the video](https://www.youtube.com/embed/gPdBP3-huVI?si=G2ulfkKzxeALP8IW&amp;start=1)
+
 # How to Install - Step by Step Guide
 1. Clone using the following repo link
    #### `git clone https://github.com/shubhamaltpi/Open-React-Contrubution-.git my-first-project`
