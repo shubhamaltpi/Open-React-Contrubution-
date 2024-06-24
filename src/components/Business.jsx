@@ -23,12 +23,10 @@ const Business = () =>  (
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
         You do the business, <br className="sm:block hidden" /> we’ll handle
-        the money.
+        the your business.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the right credit card, you can improve your financial life by
-        building credit, earning rewards and saving money. But with hundreds
-        of credit cards on the market.
+      With the right business promotion platform, you can enhance your entrepreneurial journey by increasing sales, reaching a wider audience, and saving on marketing costs. But with numerous platforms available, finding the perfect one to meet your needs is essential.
       </p>
 
       <Button styles={`mt-10`} />

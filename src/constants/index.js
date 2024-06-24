@@ -25,21 +25,21 @@ export const features = [
     icon: star,
     title: "Rewards",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      " Our platform uses state-of-the-art encryption technology to protect your personal and financial information, ensuring that all data transmitted is secure and inaccessible to unauthorized parties.",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Secured",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
-  },
+      "We employ sophisticated fraud detection systems that monitor transactions in real-time, quickly identifying and addressing any suspicious activity to safeguard your business and customer data."
+     },
   {
     id: "feature-3",
     icon: send,
     title: "Balance Transfer",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      " Our secure payment gateways provide a safe and reliable way for your customers to complete transactions, ensuring their payment details are protected and giving them confidence in their purchases.",
   },
 ];
 
@@ -47,27 +47,28 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
+      "Absolutely thrilled with the seamless integration of services provided by this platform. It's like having a one-stop solution for all my business needs. Highly recommend it to any entrepreneur looking to scale up",
+    name: "Sagar Taksale",
+    title: "Sudharshayn Abhyasika",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+      "Exceptional service! This platform not only provided me with a user-friendly website but also a seamless product platform. It's been a game-changer for my business, streamlining operations and boosting sales.",
+    name: "Sumit Gavte",
+    title: "Manager Kalash seed",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
+      "I'm blown away by the efficiency of this platform! It's made managing my online business a breeze. The combination of the web and product platforms has elevated my operations to a whole new level.",
+    name: "Rohan sing",
+    title: "Founder Amadar Amruttulya",
     img: people03,
   },
+  
 ];
 
 export const stats = [
@@ -78,13 +79,13 @@ export const stats = [
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "Trusted by businesses",
+    value: "30+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Products",
+    value: "20M+",
   },
 ];
 
